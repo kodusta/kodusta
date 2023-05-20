@@ -28,10 +28,6 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 
 
 ### :woman_technologist: About Me :
@@ -75,5 +71,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <details>	
   <summary><b>🔥 Github Streaks</b></summary><br>
   <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark"></a></p>
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=kodusta&hide_border=true&theme=dark"></a></p>
 </details>
