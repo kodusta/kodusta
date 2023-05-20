@@ -72,4 +72,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="#"><img alt="KodustaTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodusta&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
 <!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
-
+<details>	
+  <summary><b>🔥 Github Streaks</b></summary><br>
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark"></a></p>
+</details>
